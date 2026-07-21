@@ -20,7 +20,7 @@ AI-powered Boss直聘自动投递助手
 
 Demo
 
-👉 https://你的GitHubPages网址
+👉 https://strangeyu911-tech.github.io/Boss-helper/
 
 技术栈
 HTML
